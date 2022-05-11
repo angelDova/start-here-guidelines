@@ -3713,7 +3713,7 @@
 - [@HaileyByun](https://github.com/HaileyByun)
 
 - [@MedusaVM](https://github.com/MedusaVM)
-- 
+-
 - [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
 
 - [@Mikandex](https://github.com/Mikandex)
@@ -3786,3 +3786,5 @@
 - [@thisisdamilola] (https://github.com/thisisdamilola)
 
 - [@jasminetam](https://github.com/jasminetam/)
+
+- [@angelDova](https://githhub.com/angelDova)
